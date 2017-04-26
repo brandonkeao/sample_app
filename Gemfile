@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails',                   '5.0.2'
+gem 'bootstrap-sass',          '3.3.6'
 gem 'puma',                    '3.8.2'
 gem 'sass-rails',              '5.0.6'
 gem 'uglifier',                '3.0.0'
